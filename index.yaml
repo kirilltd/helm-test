@@ -3,7 +3,17 @@ entries:
   first-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-30T20:05:59.327639+03:00"
+    created: "2022-05-30T20:24:01.111803+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 582b534ba9c8f4f134fda37b09da3554182335a72e91891b36b4eeec094e0d80
+    name: first-app
+    type: application
+    urls:
+    - hhtps://kirilltd.github.io/helm-test/first-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-30T20:24:01.110863+03:00"
     description: A Helm chart for Kubernetes
     digest: cfdfd603219e60de413f5562b3712091053ecae1416cbc1dc003587500957fc6
     name: first-app
@@ -11,4 +21,4 @@ entries:
     urls:
     - hhtps://kirilltd.github.io/helm-test/first-app-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-30T20:05:59.324623+03:00"
+generated: "2022-05-30T20:24:01.108796+03:00"
